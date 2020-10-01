@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sqlite-test</string>
+    <string name="Customer_Name">Customer Name</string>
+    <string name="Numebr">Numebr</string>
+    <string name="ActiveCustomer">Active Customer</string>
+    <string name="add">Add</string>
+    <string name="viewAll">view all</string>
+</resources>
